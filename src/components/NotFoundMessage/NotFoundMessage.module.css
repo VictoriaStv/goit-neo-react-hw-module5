@@ -1,0 +1,10 @@
+.message {
+  color: rgb(46, 45, 45);
+  text-align: center;
+  margin-top: 2rem;
+  line-height: 1.5;
+}
+
+.italic {
+  font-style: italic;
+}

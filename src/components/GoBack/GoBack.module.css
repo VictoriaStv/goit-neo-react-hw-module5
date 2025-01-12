@@ -1,0 +1,23 @@
+.goBack {
+  display: flex;
+  align-items: center;
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: 500;
+  color: #000;
+  background-color: #fff;
+  border: none;
+  text-decoration: none;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s;
+  font-size: 18px;
+}
+
+.goBack:hover,
+.goBack:focus {
+  background-color: #f0f0f0;
+}
+
+.icon {
+  margin-right: 8px;
+}

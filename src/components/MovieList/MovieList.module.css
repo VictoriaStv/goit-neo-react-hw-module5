@@ -1,0 +1,9 @@
+.list {
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+.item :hover,
+.item :focus {
+  color: red;
+}

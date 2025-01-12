@@ -1,0 +1,25 @@
+.review {
+  margin-bottom: 20px;
+}
+
+.content {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.contentExpanded {
+  display: block;
+}
+
+.moreButton {
+  background: none;
+  border: none;
+  color: gray;
+  cursor: pointer;
+  text-decoration: underline;
+  padding: 0;
+  margin-top: 5px;
+}

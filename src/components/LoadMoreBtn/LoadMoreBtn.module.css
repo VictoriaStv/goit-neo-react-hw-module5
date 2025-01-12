@@ -1,0 +1,21 @@
+.btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid #007bff;
+  background-color: #007bff;
+  padding: 5px 10px;
+  cursor: pointer;
+  transition: background-color 0.25s, border-color 0.25s;
+  outline: none;
+  border-radius: 3px;
+  margin: 10px auto;
+  color: white;
+}
+
+btn:hover,
+btn:focus,
+btn:active {
+  background-color: #0056b3;
+  border-color: #0056b3;
+}
